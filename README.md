@@ -11,7 +11,7 @@
                        - **Database**: MongoDB 
 - 🌱 **I’m currently learning**: MERN, Networks, DBMS.
 - ⌚ **Learning Next**: TypeScript, AWS.
-- 🧩 **Interests**: Web Development, Alorithms, AI.
+- 🧩 **Interests**: Web Development, Alorithms, AI and ML(Feature Engineering).
 - 🎯 **Goals**: To contribute to innovative projects that make a difference and to continuously improve as a developer.
 
 ### 📫 Connect with Me:
