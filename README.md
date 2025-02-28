@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Tannistha! 👋
 
-- 👩‍💻 I'm a Third Year CSE student | Fullstack Web Developer | DSA enthusiast
+- 👩‍💻 I'm a Final Year CSE student | Fullstack Web Developer | DSA enthusiast
 - 🔭 **Currently working on**: developing fullstack websites using **MERN** stack (MongoDB, Express, React, Node.js).
 - 💻 **Programming Languages**: JavaScript, Java, Python.
 -  🛠️ **Tech Stack**: - **Frontend**: React, HTML, CSS, JavaScript, Tailwind
